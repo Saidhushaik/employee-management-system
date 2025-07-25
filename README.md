@@ -1,4 +1,3 @@
-# employee-management-system
 # Full Stack Employee Management System
 
 A full-stack web application built with **Spring Boot** and **Angular** for managing employee data, featuring user authentication, CRUD operations, and a dashboard UI. The backend APIs are secured with JWT, and the application is deployed on AWS.
