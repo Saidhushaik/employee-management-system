@@ -29,3 +29,11 @@ A full-stack web application built with **Spring Boot** and **Angular** for mana
 4. Run the backend server using:
    ```bash
    mvn spring-boot:run
+
+### Frontend
+
+1. Navigate to the frontend directory  
+2. Install dependencies  
+   ```bash
+   npm install
+
